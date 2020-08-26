@@ -23,7 +23,6 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking to collaborate on [Culqi-ui](https://github.com/onimur/culqi-ui) 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Gamer of Fps => Call of Duty;
-- 📫 How to reach me: murillo_comino@hotmail.com;
 
 **Languages and Tools:** 
 
